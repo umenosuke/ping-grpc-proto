@@ -1,0 +1,1 @@
+# ping-grpc-proto
